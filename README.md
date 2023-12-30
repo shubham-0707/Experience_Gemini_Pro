@@ -1,0 +1,4 @@
+- In this repository I am trying to make a chatBot just like Bard and ChatGPT
+- I have made a simple chatBot using Gemini-Pro APIs. 
+- I will be adding to get insights from photos of your device also in upcoming days.
+- If you want to collaborate on this app with me you are most welcome.
